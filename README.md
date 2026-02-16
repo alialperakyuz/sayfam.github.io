@@ -5,4 +5,4 @@ Hiçbir fotoğraf kaydedilmez veya paylaşılmaz.
 
 Veri Toplama: Email ve kitap bilgileri Supabase'de güvenle saklanır.
 
-İletişim: [alialperakyuz@gmail.com.com]
+İletişim: [alialperakyuz@gmail.com]
